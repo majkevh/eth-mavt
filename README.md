@@ -7,8 +7,8 @@ These notes represent all the lectures I did during my undergraduate studies at 
 | Chemie       (AS 2019)       |    |     [:books:](https://github.com/majkevh/eth-mavt/blob/main/notes/chemie/)     |                  |  |
 | Machinenelemente       (AS 2019)       |    |     [:books:](https://github.com/majkevh/eth-mavt/blob/main/notes/Machinelemente_I.pdf)     |        [:page_with_curl:](https://github.com/majkevh/eth-mavt/blob/main/notes/zfdef.pdf)              |  |
 | Mechanik I: Kinematik und Statik       (AS 2019)       |    |     [:books:](https://github.com/majkevh/eth-mavt/blob/main/notes/Mitschrift_Mech1.pdf)     |        [:page_with_curl:](https://github.com/majkevh/eth-mavt/blob/main/notes/Mechanik_I_ZF.pdf)              |  |
-| Technical Drawing and CAD      (AS 2019)       |    |         |        [:page_with_curl:](https://github.com/majkevh/eth-mavt/blob/main/notes/Zusammenfassung CAD Ehrat-Hildisch.pdf)              |  |
-| Werkstoffe und Fertigung I/II       (AS 2019/FS 2020)       |    |     [:books:](https://github.com/majkevh/eth-mavt/blob/main/notes/WuF1_HS19.pdf)  [:books:](https://github.com/majkevh/eth-mavt/blob/main/notes/WuF2_FS20.pdf)   |        [:page_with_curl:](https://github.com/majkevh/eth-mavt/blob/main/notes/WuF_ZF_Cedric_variert Bertani_BookA5.pdf)              |  |
+| Technical Drawing and CAD      (AS 2019)       |    |         |        [:page_with_curl:](https://github.com/majkevh/eth-mavt/blob/main/notes/ZusammenfassungCADEhrat-Hildisch.pdf)              |  |
+| Werkstoffe und Fertigung I/II       (AS 2019/FS 2020)       |    |     [:books:](https://github.com/majkevh/eth-mavt/blob/main/notes/WuF1_HS19.pdf)  [:books:](https://github.com/majkevh/eth-mavt/blob/main/notes/WuF2_FS20.pdf)   |        [:page_with_curl:](https://github.com/majkevh/eth-mavt/blob/main/notes/WuF_ZF_Cedric_variertBertani_BookA5.pdf)              |  |
 
 
 
