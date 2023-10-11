@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libbase_template.a CMakeFiles/base_template.dir/boundaries.cpp.o CMakeFiles/base_template.dir/coefficient_functions.cpp.o CMakeFiles/base_template.dir/initial_data.cpp.o CMakeFiles/base_template.dir/run_boundaries.cpp.o CMakeFiles/base_template.dir/run_stability.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libbase_template.a

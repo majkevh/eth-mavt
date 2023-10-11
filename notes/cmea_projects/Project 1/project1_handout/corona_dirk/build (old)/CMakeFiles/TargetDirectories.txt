@@ -1,0 +1,10 @@
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/CMakeFiles/dirkconv.dir
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/CMakeFiles/rebuild_cache.dir
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/CMakeFiles/dirk.dir
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/CMakeFiles/forward_euler.dir
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/CMakeFiles/edit_cache.dir
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/CMakeFiles/Eigen.dir
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/unittest/CMakeFiles/rebuild_cache.dir
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/unittest/CMakeFiles/edit_cache.dir
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/unittest/CMakeFiles/unittest.dir
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/unittest/CMakeFiles/GTestDownload.dir

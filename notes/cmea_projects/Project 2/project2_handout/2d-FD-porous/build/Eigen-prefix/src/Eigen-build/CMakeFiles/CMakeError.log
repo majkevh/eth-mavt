@@ -1,0 +1,323 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+ld: library not found for -lSystem
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+ld: library not found for -lc++
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_Wlogicalop failed with the following output:
+Change Dir: /Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_f13f8/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_f13f8.dir/build.make CMakeFiles/cmTC_f13f8.dir/build
+Building CXX object CMakeFiles/cmTC_f13f8.dir/src.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DCOMPILER_SUPPORT_Wlogicalop  -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wshorten-64-to-32 -Werror -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk   -Wlogical-op -MD -MT CMakeFiles/cmTC_f13f8.dir/src.cxx.o -MF CMakeFiles/cmTC_f13f8.dir/src.cxx.o.d -o CMakeFiles/cmTC_f13f8.dir/src.cxx.o -c "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.cxx"
+error: unknown warning option '-Wlogical-op'; did you mean '-Wlong-long'? [-Werror,-Wunknown-warning-option]
+make[4]: *** [CMakeFiles/cmTC_f13f8.dir/src.cxx.o] Error 1
+make[3]: *** [cmTC_f13f8/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd981 failed with the following output:
+Change Dir: /Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_98b21/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_98b21.dir/build.make CMakeFiles/cmTC_98b21.dir/build
+Building CXX object CMakeFiles/cmTC_98b21.dir/src.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DCOMPILER_SUPPORT_wd981  -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wshorten-64-to-32 -Wenum-conversion -Wc++11-extensions -Wdouble-promotion -Wshadow -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -Werror -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk   -wd981 -MD -MT CMakeFiles/cmTC_98b21.dir/src.cxx.o -MF CMakeFiles/cmTC_98b21.dir/src.cxx.o.d -o CMakeFiles/cmTC_98b21.dir/src.cxx.o -c "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.cxx"
+clang: error: unknown argument: '-wd981'
+make[4]: *** [CMakeFiles/cmTC_98b21.dir/src.cxx.o] Error 1
+make[3]: *** [cmTC_98b21/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd2304 failed with the following output:
+Change Dir: /Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_06762/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_06762.dir/build.make CMakeFiles/cmTC_06762.dir/build
+Building CXX object CMakeFiles/cmTC_06762.dir/src.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DCOMPILER_SUPPORT_wd2304  -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wshorten-64-to-32 -Wenum-conversion -Wc++11-extensions -Wdouble-promotion -Wshadow -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -Werror -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk   -wd2304 -MD -MT CMakeFiles/cmTC_06762.dir/src.cxx.o -MF CMakeFiles/cmTC_06762.dir/src.cxx.o.d -o CMakeFiles/cmTC_06762.dir/src.cxx.o -c "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.cxx"
+clang: error: unknown argument: '-wd2304'
+make[4]: *** [CMakeFiles/cmTC_06762.dir/src.cxx.o] Error 1
+make[3]: *** [cmTC_06762/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_STRICTANSI failed with the following output:
+Change Dir: /Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_69b63/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_69b63.dir/build.make CMakeFiles/cmTC_69b63.dir/build
+Building CXX object CMakeFiles/cmTC_69b63.dir/src.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DCOMPILER_SUPPORT_STRICTANSI  -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wshorten-64-to-32 -Wenum-conversion -Wc++11-extensions -Wdouble-promotion -Wshadow -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -Werror -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk   -strict-ansi -MD -MT CMakeFiles/cmTC_69b63.dir/src.cxx.o -MF CMakeFiles/cmTC_69b63.dir/src.cxx.o.d -o CMakeFiles/cmTC_69b63.dir/src.cxx.o -c "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.cxx"
+clang: error: unknown argument: '-strict-ansi'
+make[4]: *** [CMakeFiles/cmTC_69b63.dir/src.cxx.o] Error 1
+make[3]: *** [cmTC_69b63/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_OPENMP failed with the following output:
+Change Dir: /Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_5fb39/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_5fb39.dir/build.make CMakeFiles/cmTC_5fb39.dir/build
+Building CXX object CMakeFiles/cmTC_5fb39.dir/src.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DCOMPILER_SUPPORT_OPENMP  -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wshorten-64-to-32 -Wenum-conversion -Wc++11-extensions -Wdouble-promotion -Wshadow -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -Qunused-arguments -ansi  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk   -fopenmp -MD -MT CMakeFiles/cmTC_5fb39.dir/src.cxx.o -MF CMakeFiles/cmTC_5fb39.dir/src.cxx.o.d -o CMakeFiles/cmTC_5fb39.dir/src.cxx.o -c "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.cxx"
+clang: error: unsupported option '-fopenmp'
+make[4]: *** [CMakeFiles/cmTC_5fb39.dir/src.cxx.o] Error 1
+make[3]: *** [cmTC_5fb39/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+The MPI test test_mpi for C in mode normal failed to compile with the following output:
+Change Dir: /Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_9be06/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_9be06.dir/build.make CMakeFiles/cmTC_9be06.dir/build
+Building C object CMakeFiles/cmTC_9be06.dir/test_mpi.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -MD -MT CMakeFiles/cmTC_9be06.dir/test_mpi.c.o -MF CMakeFiles/cmTC_9be06.dir/test_mpi.c.o.d -o CMakeFiles/cmTC_9be06.dir/test_mpi.c.o -c /Applications/CMake.app/Contents/share/cmake-3.21/Modules/FindMPI/test_mpi.c
+/Applications/CMake.app/Contents/share/cmake-3.21/Modules/FindMPI/test_mpi.c:1:10: fatal error: 'mpi.h' file not found
+#include <mpi.h>
+         ^~~~~~~
+1 error generated.
+make[4]: *** [CMakeFiles/cmTC_9be06.dir/test_mpi.c.o] Error 1
+make[3]: *** [cmTC_9be06/fast] Error 2
+
+
+
+The MPI test test_mpi for CXX in mode normal failed to compile with the following output:
+Change Dir: /Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_bcf5e/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_bcf5e.dir/build.make CMakeFiles/cmTC_bcf5e.dir/build
+Building CXX object CMakeFiles/cmTC_bcf5e.dir/test_mpi.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wshorten-64-to-32 -Wenum-conversion -Wc++11-extensions -Wdouble-promotion -Wshadow -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -Qunused-arguments -ansi  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -MD -MT CMakeFiles/cmTC_bcf5e.dir/test_mpi.cpp.o -MF CMakeFiles/cmTC_bcf5e.dir/test_mpi.cpp.o.d -o CMakeFiles/cmTC_bcf5e.dir/test_mpi.cpp.o -c "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/FindMPI/test_mpi.cpp"
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/FindMPI/test_mpi.cpp:1:10: fatal error: 'mpi.h' file not found
+#include <mpi.h>
+         ^~~~~~~
+1 error generated.
+make[4]: *** [CMakeFiles/cmTC_bcf5e.dir/test_mpi.cpp.o] Error 1
+make[3]: *** [cmTC_bcf5e/fast] Error 2
+
+
+
+Performing C SOURCE FILE Test SCOTCH_Num_4 failed with the following compile output:
+Change Dir: /Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_36263/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_36263.dir/build.make CMakeFiles/cmTC_36263.dir/build
+Building C object CMakeFiles/cmTC_36263.dir/src.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DLAPACK_USE_F2C -DSCOTCH_Num_4  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -MD -MT CMakeFiles/cmTC_36263.dir/src.c.o -MF CMakeFiles/cmTC_36263.dir/src.c.o.d -o CMakeFiles/cmTC_36263.dir/src.c.o -c "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.c"
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.c:4:10: fatal error: 'scotch.h' file not found
+#include <scotch.h>
+         ^~~~~~~~~~
+1 error generated.
+make[4]: *** [CMakeFiles/cmTC_36263.dir/src.c.o] Error 1
+make[3]: *** [cmTC_36263/fast] Error 2
+
+
+...and run output:
+
+Return value: 1
+Source file was:
+
+#include <stdio.h>
+#include <stdint.h>
+#include <scotch.h>
+int main(int argc, char **argv) {
+  if (sizeof(SCOTCH_Num) == 4)
+    return 0;
+  else
+    return 1;
+}
+
+Performing C SOURCE FILE Test SCOTCH_Num_8 failed with the following compile output:
+Change Dir: /Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_50d4f/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_50d4f.dir/build.make CMakeFiles/cmTC_50d4f.dir/build
+Building C object CMakeFiles/cmTC_50d4f.dir/src.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DLAPACK_USE_F2C -DSCOTCH_Num_8  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -MD -MT CMakeFiles/cmTC_50d4f.dir/src.c.o -MF CMakeFiles/cmTC_50d4f.dir/src.c.o.d -o CMakeFiles/cmTC_50d4f.dir/src.c.o -c "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.c"
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.c:4:10: fatal error: 'scotch.h' file not found
+#include <scotch.h>
+         ^~~~~~~~~~
+1 error generated.
+make[4]: *** [CMakeFiles/cmTC_50d4f.dir/src.c.o] Error 1
+make[3]: *** [cmTC_50d4f/fast] Error 2
+
+
+...and run output:
+
+Return value: 1
+Source file was:
+
+#include <stdio.h>
+#include <stdint.h>
+#include <scotch.h>
+int main(int argc, char **argv) {
+  if (sizeof(SCOTCH_Num) == 8)
+    return 0;
+  else
+    return 1;
+}
+
+The MPI test test_mpi for C in mode normal failed to compile with the following output:
+Change Dir: /Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_796cf/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_796cf.dir/build.make CMakeFiles/cmTC_796cf.dir/build
+Building C object CMakeFiles/cmTC_796cf.dir/test_mpi.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -MD -MT CMakeFiles/cmTC_796cf.dir/test_mpi.c.o -MF CMakeFiles/cmTC_796cf.dir/test_mpi.c.o.d -o CMakeFiles/cmTC_796cf.dir/test_mpi.c.o -c /Applications/CMake.app/Contents/share/cmake-3.21/Modules/FindMPI/test_mpi.c
+/Applications/CMake.app/Contents/share/cmake-3.21/Modules/FindMPI/test_mpi.c:1:10: fatal error: 'mpi.h' file not found
+#include <mpi.h>
+         ^~~~~~~
+1 error generated.
+make[4]: *** [CMakeFiles/cmTC_796cf.dir/test_mpi.c.o] Error 1
+make[3]: *** [cmTC_796cf/fast] Error 2
+
+
+
+The MPI test test_mpi for CXX in mode normal failed to compile with the following output:
+Change Dir: /Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_5fbf2/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_5fbf2.dir/build.make CMakeFiles/cmTC_5fbf2.dir/build
+Building CXX object CMakeFiles/cmTC_5fbf2.dir/test_mpi.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wshorten-64-to-32 -Wenum-conversion -Wc++11-extensions -Wdouble-promotion -Wshadow -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -Qunused-arguments -ansi  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -MD -MT CMakeFiles/cmTC_5fbf2.dir/test_mpi.cpp.o -MF CMakeFiles/cmTC_5fbf2.dir/test_mpi.cpp.o.d -o CMakeFiles/cmTC_5fbf2.dir/test_mpi.cpp.o -c "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/FindMPI/test_mpi.cpp"
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/FindMPI/test_mpi.cpp:1:10: fatal error: 'mpi.h' file not found
+#include <mpi.h>
+         ^~~~~~~
+1 error generated.
+make[4]: *** [CMakeFiles/cmTC_5fbf2.dir/test_mpi.cpp.o] Error 1
+make[3]: *** [cmTC_5fbf2/fast] Error 2
+
+
+
+Performing C SOURCE FILE Test PTSCOTCH_Num_4 failed with the following compile output:
+Change Dir: /Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_963a0/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_963a0.dir/build.make CMakeFiles/cmTC_963a0.dir/build
+Building C object CMakeFiles/cmTC_963a0.dir/src.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DLAPACK_USE_F2C -DPTSCOTCH_Num_4  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -MD -MT CMakeFiles/cmTC_963a0.dir/src.c.o -MF CMakeFiles/cmTC_963a0.dir/src.c.o.d -o CMakeFiles/cmTC_963a0.dir/src.c.o -c "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.c"
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.c:4:10: fatal error: 'ptscotch.h' file not found
+#include <ptscotch.h>
+         ^~~~~~~~~~~~
+1 error generated.
+make[4]: *** [CMakeFiles/cmTC_963a0.dir/src.c.o] Error 1
+make[3]: *** [cmTC_963a0/fast] Error 2
+
+
+...and run output:
+
+Return value: 1
+Source file was:
+
+#include <stdio.h>
+#include <stdint.h>
+#include <ptscotch.h>
+int main(int argc, char **argv) {
+  if (sizeof(SCOTCH_Num) == 4)
+    return 0;
+  else
+    return 1;
+}
+
+Performing C SOURCE FILE Test PTSCOTCH_Num_8 failed with the following compile output:
+Change Dir: /Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_c7515/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_c7515.dir/build.make CMakeFiles/cmTC_c7515.dir/build
+Building C object CMakeFiles/cmTC_c7515.dir/src.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -DLAPACK_USE_F2C -DPTSCOTCH_Num_8  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -MD -MT CMakeFiles/cmTC_c7515.dir/src.c.o -MF CMakeFiles/cmTC_c7515.dir/src.c.o.d -o CMakeFiles/cmTC_c7515.dir/src.c.o -c "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.c"
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp/src.c:4:10: fatal error: 'ptscotch.h' file not found
+#include <ptscotch.h>
+         ^~~~~~~~~~~~
+1 error generated.
+make[4]: *** [CMakeFiles/cmTC_c7515.dir/src.c.o] Error 1
+make[3]: *** [cmTC_c7515/fast] Error 2
+
+
+...and run output:
+
+Return value: 1
+Source file was:
+
+#include <stdio.h>
+#include <stdint.h>
+#include <ptscotch.h>
+int main(int argc, char **argv) {
+  if (sizeof(SCOTCH_Num) == 8)
+    return 0;
+  else
+    return 1;
+}
+
+The MPI test test_mpi for C in mode normal failed to compile with the following output:
+Change Dir: /Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_129bf/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_129bf.dir/build.make CMakeFiles/cmTC_129bf.dir/build
+Building C object CMakeFiles/cmTC_129bf.dir/test_mpi.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -MD -MT CMakeFiles/cmTC_129bf.dir/test_mpi.c.o -MF CMakeFiles/cmTC_129bf.dir/test_mpi.c.o.d -o CMakeFiles/cmTC_129bf.dir/test_mpi.c.o -c /Applications/CMake.app/Contents/share/cmake-3.21/Modules/FindMPI/test_mpi.c
+/Applications/CMake.app/Contents/share/cmake-3.21/Modules/FindMPI/test_mpi.c:1:10: fatal error: 'mpi.h' file not found
+#include <mpi.h>
+         ^~~~~~~
+1 error generated.
+make[4]: *** [CMakeFiles/cmTC_129bf.dir/test_mpi.c.o] Error 1
+make[3]: *** [cmTC_129bf/fast] Error 2
+
+
+
+The MPI test test_mpi for CXX in mode normal failed to compile with the following output:
+Change Dir: /Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_2327b/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_2327b.dir/build.make CMakeFiles/cmTC_2327b.dir/build
+Building CXX object CMakeFiles/cmTC_2327b.dir/test_mpi.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wshorten-64-to-32 -Wenum-conversion -Wc++11-extensions -Wdouble-promotion -Wshadow -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -Qunused-arguments -ansi  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -MD -MT CMakeFiles/cmTC_2327b.dir/test_mpi.cpp.o -MF CMakeFiles/cmTC_2327b.dir/test_mpi.cpp.o.d -o CMakeFiles/cmTC_2327b.dir/test_mpi.cpp.o -c "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/FindMPI/test_mpi.cpp"
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/FindMPI/test_mpi.cpp:1:10: fatal error: 'mpi.h' file not found
+#include <mpi.h>
+         ^~~~~~~
+1 error generated.
+make[4]: *** [CMakeFiles/cmTC_2327b.dir/test_mpi.cpp.o] Error 1
+make[3]: *** [cmTC_2327b/fast] Error 2
+
+
+
+The MPI test test_mpi for C in mode normal failed to compile with the following output:
+Change Dir: /Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_e89cd/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_e89cd.dir/build.make CMakeFiles/cmTC_e89cd.dir/build
+Building C object CMakeFiles/cmTC_e89cd.dir/test_mpi.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -MD -MT CMakeFiles/cmTC_e89cd.dir/test_mpi.c.o -MF CMakeFiles/cmTC_e89cd.dir/test_mpi.c.o.d -o CMakeFiles/cmTC_e89cd.dir/test_mpi.c.o -c /Applications/CMake.app/Contents/share/cmake-3.21/Modules/FindMPI/test_mpi.c
+/Applications/CMake.app/Contents/share/cmake-3.21/Modules/FindMPI/test_mpi.c:1:10: fatal error: 'mpi.h' file not found
+#include <mpi.h>
+         ^~~~~~~
+1 error generated.
+make[4]: *** [CMakeFiles/cmTC_e89cd.dir/test_mpi.c.o] Error 1
+make[3]: *** [cmTC_e89cd/fast] Error 2
+
+
+
+The MPI test test_mpi for CXX in mode normal failed to compile with the following output:
+Change Dir: /Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_47bb9/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_47bb9.dir/build.make CMakeFiles/cmTC_47bb9.dir/build
+Building CXX object CMakeFiles/cmTC_47bb9.dir/test_mpi.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wshorten-64-to-32 -Wenum-conversion -Wc++11-extensions -Wdouble-promotion -Wshadow -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -Qunused-arguments -ansi  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -MD -MT CMakeFiles/cmTC_47bb9.dir/test_mpi.cpp.o -MF CMakeFiles/cmTC_47bb9.dir/test_mpi.cpp.o.d -o CMakeFiles/cmTC_47bb9.dir/test_mpi.cpp.o -c "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/FindMPI/test_mpi.cpp"
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-FD-porous/build/Eigen-prefix/src/Eigen-build/CMakeFiles/FindMPI/test_mpi.cpp:1:10: fatal error: 'mpi.h' file not found
+#include <mpi.h>
+         ^~~~~~~
+1 error generated.
+make[4]: *** [CMakeFiles/cmTC_47bb9.dir/test_mpi.cpp.o] Error 1
+make[3]: *** [cmTC_47bb9/fast] Error 2
+
+
+

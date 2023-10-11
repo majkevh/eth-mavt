@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/unittest/CMakeFiles/GTest"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/unittest/CMakeFiles/GTest.rule"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/unittest/CMakeFiles/GTest-complete.rule"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/unittest/GTest-prefix/src/GTest-stamp/GTest-build.rule"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/unittest/GTest-prefix/src/GTest-stamp/GTest-configure.rule"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/unittest/GTest-prefix/src/GTest-stamp/GTest-download.rule"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/unittest/GTest-prefix/src/GTest-stamp/GTest-install.rule"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/unittest/GTest-prefix/src/GTest-stamp/GTest-mkdir.rule"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/unittest/GTest-prefix/src/GTest-stamp/GTest-patch.rule"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/unittest/GTest-prefix/src/GTest-stamp/GTest-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"GTest"
+		],
+		"name" : "GTest"
+	}
+}

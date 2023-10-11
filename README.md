@@ -26,7 +26,15 @@ These notes represent all the lectures I did during my undergraduate studies at 
 | Models, Algorithms and Data (FS 2021)      |  [:earth_africa:](https://www.cse-lab.ethz.ch/teaching/mad_fs21/)    |     [:books:](https://github.com/majkevh/eth-mavt/blob/main/notes/ModelsAlgorithmsData.pdf.pdf)    |     [:page_with_curl:](https://github.com/majkevh/eth-mavt/blob/main/cheatsheets/mad.pdf)         |  |
 | Quantum Mechanics (FS 2021)              |    |     [:books:](https://github.com/majkevh/eth-mavt/blob/main/notes/Introduction_to_Quantum_Mechanics_2nd_edition.pdf)    |     [:page_with_curl:](https://github.com/majkevh/eth-mavt/blob/main/cheatsheets/QM_ZF.pdf)         |  |
 | Control System II (FS 2021)              |    |     [:books:](https://github.com/majkevh/eth-mavt/blob/main/notes/RT2Skript_v2.pdf)    |      [:page_with_curl:](https://github.com/majkevh/eth-mavt/blob/main/cheatsheets/fcs2.pdf)     [:page_with_curl:](https://github.com/majkevh/eth-mavt/blob/main/cheatsheets/cs2.pdf)           |  |
-
+| Fluiddynamik II (AS 2021)              |    |     [:books:](https://github.com/majkevh/eth-mavt/blob/main/notes/Fluid2_HS2021.pdf)    |           |  |
+| Combustion and Reactive Processes (AS 2021)              |    |        |     [:page_with_curl:](https://github.com/majkevh/eth-mavt/blob/main/cheatsheets/comb1.jpeg)    [:page_with_curl:](https://github.com/majkevh/eth-mavt/blob/main/cheatsheets/comb2.jpeg)        |  |
+| Mass Transfer (AS 2021)              |    |     [:books:](https://github.com/majkevh/eth-mavt/blob/main/notes/Cussler_e_diffusion_mass_transfer_in_flu.pdf)    |     [:page_with_curl:](https://github.com/majkevh/eth-mavt/blob/main/cheatsheets/MT_ZF.pdf)         |  |
+|  Modeling and Optimization of Energy Systems (AS 2021)              |    |     [:books:](https://github.com/majkevh/eth-mavt/blob/main/notes/moses/)    |     |  |
+| Stochastik (AS 2021)              |  [:earth_africa:](https://metaphor.ethz.ch/x/2021/hs/401-0603-00L/)    |     [:books:](https://github.com/majkevh/eth-mavt/blob/main/notes/stok.pdf)    |     [:page_with_curl:](https://github.com/majkevh/eth-mavt/blob/main/cheatsheets/stokzf.pdf)         |  |
+| Thermodynamik III (AS 2021)              |    |     [:books:](https://github.com/majkevh/eth-mavt/blob/main/notes/thermo3/)    |        |  |
+| Computational methods for Engeneering Applications (AS 2021)              |    |     [:books:](https://github.com/majkevh/eth-mavt/blob/main/notes/cmeask.pdf)    |     [:page_with_curl:](https://github.com/majkevh/eth-mavt/blob/main/cheatsheets/smeazf.pdf)         | [:mortar_board:](https://github.com/majkevh/eth-mavt/blob/main/notes/cmea_projects/) |
+| Introduction to Machine Learning (FS 2022)              |   [:earth_africa:](https://las.inf.ethz.ch/teaching/introml-s22)   |     [:books:](https://github.com/majkevh/eth-mavt/blob/main/notes/introml-math-recap.pdf)    |        [:page_with_curl:](https://github.com/majkevh/eth-mavt/blob/main/cheatsheets/imlzf.pdf)       | [:mortar_board:](https://github.com/majkevh/eth-intro-ml-fs22) |
+| Materials (FS 2022)              |    |        |        [:page_with_curl:](https://github.com/majkevh/eth-mavt/blob/main/cheatsheets/matzf.pdf)     |  |
 
 
 

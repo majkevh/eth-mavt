@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/heun_timestep/build/Eigen/unsupported/test/matrix_square_root.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildUnsupported"
+		],
+		"name" : "matrix_square_root_1"
+	}
+}

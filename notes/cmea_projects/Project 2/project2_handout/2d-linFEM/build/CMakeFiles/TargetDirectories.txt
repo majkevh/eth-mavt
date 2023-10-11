@@ -1,0 +1,9 @@
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/CMakeFiles/fem2d.dir
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/CMakeFiles/rebuild_cache.dir
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/CMakeFiles/edit_cache.dir
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/CMakeFiles/IGL.dir
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/CMakeFiles/Eigen.dir
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/unittest/CMakeFiles/rebuild_cache.dir
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/unittest/CMakeFiles/edit_cache.dir
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/unittest/CMakeFiles/unittest.dir
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/unittest/CMakeFiles/GTest.dir

@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/heun_timestep/build/Eigen/test/product_trmm.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildOfficial"
+		],
+		"name" : "product_trmm_21"
+	}
+}

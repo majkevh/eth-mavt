@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/unittest/CMakeFiles/GTestDownload"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/unittest/CMakeFiles/GTestDownload.rule"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/unittest/CMakeFiles/GTestDownload-complete.rule"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/unittest/GTestDownload-prefix/src/GTestDownload-stamp/GTestDownload-build.rule"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/unittest/GTestDownload-prefix/src/GTestDownload-stamp/GTestDownload-configure.rule"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/unittest/GTestDownload-prefix/src/GTestDownload-stamp/GTestDownload-download.rule"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/unittest/GTestDownload-prefix/src/GTestDownload-stamp/GTestDownload-install.rule"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/unittest/GTestDownload-prefix/src/GTestDownload-stamp/GTestDownload-mkdir.rule"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/unittest/GTestDownload-prefix/src/GTestDownload-stamp/GTestDownload-patch.rule"
+		},
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/unittest/GTestDownload-prefix/src/GTestDownload-stamp/GTestDownload-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"GTestDownload"
+		],
+		"name" : "GTestDownload"
+	}
+}

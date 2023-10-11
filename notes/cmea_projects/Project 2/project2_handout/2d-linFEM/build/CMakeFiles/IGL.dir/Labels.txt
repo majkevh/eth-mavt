@@ -1,0 +1,13 @@
+# Target labels
+ IGL
+# Source files and their labels
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/CMakeFiles/IGL
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/CMakeFiles/IGL.rule
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/CMakeFiles/IGL-complete.rule
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/IGL-prefix/src/IGL-stamp/IGL-build.rule
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/IGL-prefix/src/IGL-stamp/IGL-configure.rule
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/IGL-prefix/src/IGL-stamp/IGL-download.rule
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/IGL-prefix/src/IGL-stamp/IGL-install.rule
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/IGL-prefix/src/IGL-stamp/IGL-mkdir.rule
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/IGL-prefix/src/IGL-stamp/IGL-patch.rule
+/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 2/project2_handout/2d-linFEM/build/IGL-prefix/src/IGL-stamp/IGL-update.rule

@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/michael/Downloads/MAVT/B_HS21/CMEA/Project/Project 1/project1_handout/corona_dirk/build/Eigen/test/basicstuff.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildOfficial"
+		],
+		"name" : "basicstuff_6"
+	}
+}
